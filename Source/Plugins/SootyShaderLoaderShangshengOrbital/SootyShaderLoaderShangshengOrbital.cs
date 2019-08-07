@@ -2,10 +2,10 @@
 using System.Diagnostics.CodeAnalysis;
 using UnityEngine;
 
-namespace SootyShaderLoader
+namespace SootyShaderLoaderShangshengOrbital
 {
     [KSPAddon(KSPAddon.Startup.Instantly, true)]
-    public class SootyShaderLoader : MonoBehaviour
+    public class SootyShaderLoaderShangshengOrbital : MonoBehaviour
     {
         private const string shadersAssetName = "ShangshengOrbitalShader";
         private const string winShaderName = "-windows.ksp";

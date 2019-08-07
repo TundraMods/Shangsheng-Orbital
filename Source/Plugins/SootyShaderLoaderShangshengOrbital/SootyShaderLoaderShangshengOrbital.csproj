@@ -7,8 +7,8 @@
     <ProjectGuid>{27638093-3F1A-4866-9004-21D8CE030BF8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SootyShaderLoader</RootNamespace>
-    <AssemblyName>SootyShaderLoader</AssemblyName>
+    <RootNamespace>SootyShaderLoaderShangshengOrbital</RootNamespace>
+    <AssemblyName>SootyShaderLoaderShangshengOrbital</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,14 +39,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModuleSootyShader.cs" />
+    <Compile Include="ModuleSootyShaderShangshengOrbital.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SootyShaderLoader.cs" />
+    <Compile Include="SootyShaderLoaderShangshengOrbital.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
     <PostBuildEvent>
-    sh -e -c "cp '$(TargetPath)' '$(SolutionDir)../../../GameData/ShangshengOrbital/Plugins/'"
+    sh -e -c "cp '$(TargetPath)' '$(SolutionDir)../../GameData/ShangshengOrbital/Plugins/'"
   </PostBuildEvent>
   </PropertyGroup>
 </Project>
