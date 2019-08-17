@@ -20,4 +20,5 @@ Kerbal Reusability Expansion For the fins
 **Recommended mods:**
 
 Community Category Kit For an extra icon in the VAB to see all the parts
+
 SmokeScreen To see the mighty plumes
