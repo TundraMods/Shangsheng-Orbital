@@ -2,7 +2,7 @@
 A Kerbal Space Program mod based on Linkspace's Newline-1 rocket
 
 
-**This mod will include the following parts:
+**This mod will include the following parts:**
 
 * First stage engine (has 2 engine modes)
 * Legs based on the design of NewLine-1
@@ -13,11 +13,11 @@ A Kerbal Space Program mod based on Linkspace's Newline-1 rocket
 * Payload deployer
 * Fairing half
 
-**Required mods:
+**Required mods:**
 
 Kerbal Reusability Expansion For the fins
 
-**Recommended mods:
+**Recommended mods:**
 
 Community Category Kit For an extra icon in the VAB to see all the parts
 SmokeScreen To see the mighty plumes
