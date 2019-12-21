@@ -6,6 +6,9 @@ The art assets in this pack (all .dds, .ksp, .png and .mu files) are distributed
 This mod can only be downloaded at Github.com/damonvv. If you notice any other downloadlink on any other website than mine, please let me know on the KSP forums.
 SootyShaderLoader is based on the custom shader importer by shadowmage and modyfied with permission by DMagic & Blowfish with custom modules and settings.
 
+Version 0.3
+- Updated for 1.8.x
+
 Version 0.2
 - Fixed sound on XGX-62
 
